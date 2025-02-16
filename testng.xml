@@ -1,0 +1,11 @@
+<suite name="Hotel Booking Test Suite">
+    <test name="Complete Test Flow">
+        <classes>
+            <class name="tests.LoginTest"/>
+            <class name="tests.SearchHotelTest"/>
+            <class name="tests.SelectHotelTest"/>
+            <class name="tests.BookHotelTest"/>
+            <class name="tests.LogoutTest"/>
+        </classes>
+    </test>
+</suite>
